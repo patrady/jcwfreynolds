@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Oil droplet shape -->
+  <path d="M16 2 C16 2 6 14 6 20 C6 25.5 10.5 30 16 30 C21.5 30 26 25.5 26 20 C26 14 16 2 16 2 Z" fill="#1a1a2e"/>
+  <!-- Gold highlight/shine -->
+  <path d="M12 18 C12 18 10 22 13 25 C14.5 26.5 16 26 16 26 C16 26 12 24 12 20 C12 18 13 16 13 16 Z" fill="#d4a84b" opacity="0.8"/>
+</svg>

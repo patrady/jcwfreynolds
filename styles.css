@@ -76,7 +76,7 @@ nav {
 /* Hero Section */
 .hero {
     background: linear-gradient(rgba(26, 26, 46, 0.85), rgba(26, 26, 46, 0.85)),
-                url('https://images.unsplash.com/photo-1513828583688-c52646db42da?auto=format&fit=crop&w=1920&q=80');
+                url('assets/images/burkburnett.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
